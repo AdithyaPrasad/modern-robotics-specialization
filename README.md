@@ -9,8 +9,8 @@ Course 1: Foundations of Robot Motion
 Course 2: Robot Kinematics
 
 ## Skills 
-- Robotics1
-- Kinematics1
+- Robotics
+- Kinematics
 - Dynamics
 - Motion Planning
 - Control Systems
